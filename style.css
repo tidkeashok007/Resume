@@ -1,0 +1,225 @@
+
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.leftbox{
+    float: left;
+    margin-top: 2%;
+    border-radius: 0px 100px 0px 100px;
+    margin-left: 2%;
+    height: 2000px;
+    width: 30%;
+    text-align: center;
+    background-color: rgb(71, 38, 150);
+    color: rgb(255, 255, 255);
+}
+
+
+
+.leftbox .profile  img{
+   width: 250px;
+   height: 240px;
+  border:2px solid rgb(242, 243, 242);
+  border-radius:190px;
+  box-shadow: 0px 20px 10px #ccc;
+  margin-top: 5%;
+  
+  
+}
+
+
+
+
+
+
+.about{
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 5%;
+    font-family: verdana;
+}
+.about p{
+    font-size: 20px;
+}
+
+
+
+
+
+
+.skills{
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 5%;
+    font-family: verdana;
+}
+.skills p{
+    font-size: 20px;
+}
+
+
+
+
+
+.language{
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 5%;
+    font-family: verdana;
+
+}
+.language p{
+    font-size: 20px;
+}
+.language .side{
+    text-align: right;
+}
+
+
+
+
+
+.social{
+    /* text-align: left;
+    margin-left: 10%;
+    margin-right: 5%; */
+    font-family: verdana;
+}
+ .social a{
+   padding: 0px 20px;
+ }
+
+
+
+
+
+/* this is right side */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .rightbox{
+    float: left;
+    width: 67%;
+    height: 2000px;
+   
+ }
+
+
+.name h1{
+    margin-top: 11%;
+    margin-left: 10%;
+    font-size: 60px;
+    text-align: left;
+    color: rgb(71, 38, 150);
+
+
+ }
+ 
+.name h2{
+    margin-left: 10%;
+    font-size: 30px;
+    color: rgb(71, 38, 150);
+ }
+
+
+
+
+
+ .contact{
+    margin-top: 3%;
+    border: 2px rgb(255, 255, 255) solid;
+    border-radius: 0px 50px 0px 50px;
+    background-color: rgb(71, 38, 150);
+    height: 100px;
+ }
+ .contact ul li{
+    margin-left: 5%;
+    color: rgb(255, 255, 255);
+    list-style-type: none;
+    float: left;
+    font-size: 25px;
+    padding: 20px 25px;
+    
+ }
+
+ 
+
+
+
+
+ .education{
+        text-align: left;
+        margin-top: 10%;
+        margin-left: 10%;
+        font-family: verdana;
+        color: rgb(71, 38, 150);
+ }
+.education li{
+        font-size: 20px;
+        color: black;
+}
+
+
+.technical {
+       text-align: left;
+        margin-left: 10%;
+        margin-right: 5%;
+        font-family: verdana;
+        color: rgb(71, 38, 150);
+}
+.technical li{
+    color: black;
+    font-size: 20px;
+}
+
+
+
+.expertize {
+    text-align: left;
+       margin-left: 10%;
+       font-family: verdana;
+       color: rgb(71, 38, 150);
+}
+.expertize li{
+   color: black;
+   font-size: 20px;
+}
+
+
+.per{
+    text-align: left;
+    margin-left: 10%;
+    font-family: verdana;
+    color: rgb(71, 38, 150);
+    
+}
+.per p{
+    color: black;
+   font-size: 20px;
+}
+
+
+
+
+
